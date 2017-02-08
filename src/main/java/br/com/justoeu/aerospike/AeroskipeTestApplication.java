@@ -3,6 +3,9 @@ package br.com.justoeu.aerospike;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/*
+TESte
+ */
 @SpringBootApplication
 public class AeroskipeTestApplication {
 
